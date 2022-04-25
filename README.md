@@ -1,3 +1,7 @@
+## Cryptocurrency Website
+This React project shows Data about cryptocurrencies from rapidapi and shows the top 100 cryptos with specific news for each cryptocurrency.
+Exchanges are commented out because this api needs to be paid.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
