@@ -1,4 +1,8 @@
 ## Cryptocurrency Website
+
+Hosted on skynet:
+https://0005qv6l54thjbrf86thlkcknddkhilntvs9joetik20m97nj7r2q5o.siasky.net/
+
 This React project shows Data about cryptocurrencies from rapidapi and shows the top 100 cryptos with specific news for each cryptocurrency.
 Exchanges are commented out because this api needs to be paid.
 
